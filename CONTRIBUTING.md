@@ -1,5 +1,5 @@
 # Peter Moss COVID-19 AI Research Project
-## Contributing to the EMAR - Hospital Intelligent Automation System
+## Contributing to the Emergency Assistance Robot
 
 We encourage bug fixes and enhancements submitted by the community and there are a number of ways you can contribute towards this repository.
 
@@ -128,8 +128,8 @@ Each .md file in the repository should use the same header. An example of this i
 
 ```
 # Peter Moss Leukemia AI Research
-## EMAR - Hospital Intelligent Automation System
-[![EMAR - Hospital Intelligent Automation System](Media/Images/EMAR.png)](https://github.com/COVID-19-AI-Research-Project/EMAR)
+## Emergency Assistance Robot
+[![Emergency Assistance Robot](Media/Images/EMAR.png)](https://github.com/COVID-19-AI-Research-Project/EMAR)
 ```
 
 Each .md file in the repository should also use the same footer, with the excpetions of the contributors. If you contribute directly to the code or documentation you should update this area with your details.
