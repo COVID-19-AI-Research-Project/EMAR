@@ -1,4 +1,4 @@
-# Peter Moss Leukemia AI Research
+# Peter Moss COVID-19 AI Research Project
 ##  Hospital Intelligent Automation System
 [![GeniSysAI Server](../../Media/Images/EMAR.png)](https://github.com/LeukemiaAiResearch/EMAR)
 
@@ -18,7 +18,7 @@
 &nbsp;
 
 # Introduction
-The following guide will take you through setting up and installing the  [ Hospital Intelligent Automation System](https://github.com/LeukemiaAiResearch/HIAS " Hospital Intelligent Automation System").
+The following guide will take you through setting up and installing the  [ Hospital Intelligent Automation System](https://github.com/LeukemiaAiResearch/EMAR " Hospital Intelligent Automation System").
 
 &nbsp;
 
