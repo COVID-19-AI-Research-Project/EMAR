@@ -1,11 +1,32 @@
-# Peter Moss COVID-19 AI Research Project
+# Peter Moss Leukemia AI Research
+##  Hospital Intelligent Automation System
+[![GeniSysAI Server](../../Media/Images/EMAR.png)](https://github.com/LeukemiaAiResearch/EMAR)
 
-## COVID-19 Robotics Emergency Assistance
+&nbsp;
 
-[![GeniSysAI Server](../../Media/Images/covid-19-ai-research.png)](https://github.com/COVID-19-AI-Research-Project/COVID19-Robotics-Emergency-Assistance)
+# Table Of Contents
 
-# Installation & Setup
-You should already have cloned the repository during the [Peter Moss COVID-19 Medical Support System Server](https://github.com/COVID-19-AI-Research-Project/COVID19-Medical-Support-System-Server "Peter Moss COVID-19 Medical Support System Server") [Installation Guide](https://github.com/COVID-19-AI-Research-Project/COVID19-Medical-Support-System-Server/blob/master/Documentation/Installation/Installation.md "Installation Guide"). If you have not you need to  complete that guide first before continuing here.
+- [Introduction](#introduction)
+- [Required Hardware](#required-hardware)
+- [Prerequisites](#prerequisites)
+- [Contributing](#contributing)
+    - [Contributors](#contributors)
+- [Versioning](#versioning)
+- [License](#license)
+- [Bugs/Issues](#bugs-issues)
+
+&nbsp;
+
+# Introduction
+The following guide will take you through setting up and installing the  [ Hospital Intelligent Automation System](https://github.com/LeukemiaAiResearch/HIAS " Hospital Intelligent Automation System").
+
+&nbsp;
+
+# Required Hardware
+
+&nbsp;
+
+# Prerequisites 
 
 &nbsp;
 
@@ -13,26 +34,26 @@ You should already have cloned the repository during the [Peter Moss COVID-19 Me
 
 The Peter Moss Acute Myeloid & Lymphoblastic Leukemia AI Research project encourages and welcomes code contributions, bug fixes and enhancements from the Github.
 
-Please read the [CONTRIBUTING](https://github.com/COVID-19-AI-Research-Project/COVID19-Robotics-Emergency-Assistance/blob/master/CONTRIBUTING.md "CONTRIBUTING") document for a full guide to forking our repositories and submitting your pull requests. You will also find information about our code of conduct on this page.
+Please read the [CONTRIBUTING](../../CONTRIBUTING.md "CONTRIBUTING") document for a full guide to forking your repositories and submitting your pull requests. You will also find information about your code of conduct on this page.
 
 ## Contributors
 
-- **AUTHOR:** [Adam Milton-Barker](https://www.leukemiaresearchassociation.ai/team/adam-milton-barker "Adam Milton-Barker") - [Peter Moss Leukemia AI Research](https://www.leukemiaresearchassociation.ai "Peter Moss Leukemia AI Research") Founder & Intel Software Innovator, Sabadell, Spain
+- **AUTHOR:** [Adam Milton-Barker](https://www.leukemiaresearchassociation.ai.com/team/adam-milton-barker "Adam Milton-Barker") - [Peter Moss Leukemia AI Research](https://www.leukemiaresearchassociation.ai "Peter Moss Leukemia AI Research") Founder & Intel Software Innovator, Sabadell, Spain
 
 &nbsp;
 
 # Versioning
 
-We use SemVer for versioning. For the versions available, see [Releases](https://github.com/COVID-19-AI-Research-Project/COVID19-Robotics-Emergency-Assistance/releases "Releases").
+You use SemVer for versioning. For the versions available, see [Releases](../../releases "Releases").
 
 &nbsp;
 
 # License
 
-This project is licensed under the **MIT License** - see the [LICENSE](https://github.com/COVID-19-AI-Research-Project/COVID19-Robotics-Emergency-Assistance/blob/master/LICENSE "LICENSE") file for details.
+This project is licensed under the **MIT License** - see the [LICENSE](../../LICENSE "LICENSE") file for details.
 
 &nbsp;
 
 # Bugs/Issues
 
-We use the [repo issues](https://github.com/COVID-19-AI-Research-Project/COVID19-Robotics-Emergency-Assistance/issues "repo issues") to track bugs and general requests related to using this project. See [CONTRIBUTING](https://github.com/COVID-19-AI-Research-Project/COVID19-Robotics-Emergency-Assistance/blob/master/CONTRIBUTING.md "CONTRIBUTING") for more info on how to submit bugs, feature requests and proposals.
+You use the [repo issues](../../issues "repo issues") to track bugs and general requests related to using this project. See [CONTRIBUTING](../../CONTRIBUTING.md "CONTRIBUTING") for more info on how to submit bugs, feature requests and proposals.
