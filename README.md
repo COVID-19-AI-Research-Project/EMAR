@@ -1,6 +1,6 @@
 # Peter Moss COVID-19 AI Research Project
-## Emergency Assistance Robot
-[![Emergency Assistance Robot](Media/Images/EMAR.png)](https://github.com/COVID-19-AI-Research-Project/EMAR)
+## EMAR - Emergency Assistance Robot
+[![EMAR - Emergency Assistance Robot](Media/Images/EMAR.png)](https://github.com/COVID-19-AI-Research-Project/EMAR)
 
 [![VERSION](https://img.shields.io/badge/VERSION-0.0.0-blue.svg)](https://github.com/COVID-19-AI-Research-Project/EMAR/tree/0.0.0) [![DEV BRANCH](https://img.shields.io/badge/DEV%20BRANCH-0.1.0-blue.svg)](https://github.com/COVID-19-AI-Research-Project/EMAR/tree/0.1.0) [![Issues Welcome!](https://img.shields.io/badge/Contributions-Welcome-lightgrey.svg)](CONTRIBUTING.md) [![Issues](https://img.shields.io/badge/Issues-Welcome-lightgrey.svg)](issues) [![LICENSE](https://img.shields.io/badge/LICENSE-MIT-blue.svg)](LICENSE)
 
