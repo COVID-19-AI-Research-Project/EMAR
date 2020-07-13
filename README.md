@@ -1,6 +1,6 @@
 # Peter Moss COVID-19 AI Research Project
-## Emergency Assistance Robot
-[![Emergency Assistance Robot](Media/Images/EMAR.png)](https://github.com/COVID-19-AI-Research-Project/EMAR)
+## EMAR - Emergency Assistance Robot
+[![EMAR - Emergency Assistance Robot](Media/Images/EMAR.png)](https://github.com/COVID-19-AI-Research-Project/EMAR)
 
 [![VERSION](https://img.shields.io/badge/VERSION-0.0.0-blue.svg)](https://github.com/COVID-19-AI-Research-Project/EMAR/tree/0.0.0) [![DEV BRANCH](https://img.shields.io/badge/DEV%20BRANCH-0.1.0-blue.svg)](https://github.com/COVID-19-AI-Research-Project/EMAR/tree/0.1.0) [![Issues Welcome!](https://img.shields.io/badge/Contributions-Welcome-lightgrey.svg)](CONTRIBUTING.md) [![Issues](https://img.shields.io/badge/Issues-Welcome-lightgrey.svg)](issues) [![LICENSE](https://img.shields.io/badge/LICENSE-MIT-blue.svg)](LICENSE)
 
@@ -9,11 +9,9 @@
 # Table Of Contents
 
 - [Introduction](#introduction)
+- [Open Technology](#open-technology)
 - [Key Features](#key-features)
 - [Assistance Features](#assistance-features)
-- [EMAR](#emar)
-- [EMAR UI (HIAS)](#emar-ui-hias)
-- [Installation](#installation)
 - [Contributing](#contributing)
     - [Contributors](#contributors)
 - [Versioning](#versioning)
@@ -24,15 +22,26 @@
 
 # Introduction
 
+![EMAR Design 1](Media/Images/EMAR-Design-1.jpg)  
+**DESIGN CREDIT:** [Simeon Pieterkosky](https://www.leukemiaresearchassociation.ai/team/simeon-pieterkosky "Simeon Pieterkosky")
+
 **EMAR** is an open-source, tele-operated Emergency Assistance Robot, designed to reduce the amount of exposure medical staff have with patients and potential patients during pandemics and similar situations we may face in the future. 
 
 The idea for this open-source tele-operated robot came as I was sat in room in a hospital surrounded by people with COVID-19 as a potential COVID-19 Pneumonia patient. The doctors, nurses and other teams were in among us for the whole 12 hours or more I was in the hospital.
 
 Some of the common things I saw was nurses & doctors calling patients, giving paracetamol, taking temperatures, adjusting masks and blankets. Every time one of the medical staff had to do one of these tasks they were putting themselves in danger of catching COVID-19.
 
-Each of these tasks can be carried out by tele-operated robots, so this is where the idea came from.    
+Each of these tasks can be carried out by tele-operated robots, and this is what we are building EMAR for.    
 
 __This project is a work in progress, however our plan is to work with a local medical/health center or hospital to do a pilot project.__
+
+&nbsp;
+
+# Open Technology
+- **Open Software** 
+    - EMAR's software is entirely open-source.
+- **Open STLS** 
+    - The STL files required to print EMAR are open-source.
 
 &nbsp;
 
@@ -46,8 +55,6 @@ __This project is a work in progress, however our plan is to work with a local m
     - EMAR's shell is 3D printed.
 - **Tele-Operated** 
     - Remotely operated using the HIAS UI & voice control.
-- **Two way audio streaming** 
-    - Two way audio streaming allows medical staff and patients to communicate.
 - **Object detection** 
     - Object detection adds an extra layer of awareness, assisting medical staff as they maneuver the robot.
 - **Proximity Sensors** 
@@ -62,23 +69,8 @@ __This project is a work in progress, however our plan is to work with a local m
     - Able to adjust blankets on patients.
 - **Adjusting Breathing Apparatus** 
     - Able to adjust beathing apparatus on patients.
-
-&nbsp;
-
-# Open Technology
-- **Open Software** 
-    - EMAR's software is entirely open-source.
-- **Open STLS** 
-    - The STL files required to print EMAR are open-source.
-
-&nbsp;
-
-## Installation
-Installation scripts and tutorials for setting up your Emergency Assistance Robot & UI are provided. To get started, please follow the installation guides provided below in the order they are given:
-
-| ORDER | GUIDE | INFORMATION | AUTHOR |
-| ----- | ----- | ----------- | ------ |
-| 1 | [Main Installation Guide](Documentation/Installation/Installation.md "Main Installation Guide") | Primary installation guide covering most of the information needed to do the core installation |  [Adam Milton-Barker](https://www.leukemiaresearchassociation.ai.com/team/adam-milton-barker "Adam Milton-Barker") |
+- **Two way audio streaming** 
+    - Two way audio streaming allows medical staff and patients to communicate.
 
 &nbsp;
 
@@ -90,7 +82,13 @@ Please read the [CONTRIBUTING](CONTRIBUTING.md "CONTRIBUTING") document for a fu
 
 ## Contributors
 
-- **AUTHOR:** [Adam Milton-Barker](https://www.leukemiaresearchassociation.ai.com/team/adam-milton-barker "Adam Milton-Barker") - [Peter Moss Leukemia AI Research](https://www.leukemiaresearchassociation.ai "Peter Moss Leukemia AI Research") Founder & Intel Software Innovator, Sabadell, Spain
+- [Adam Milton-Barker](https://www.leukemiaresearchassociation.ai/team/adam-milton-barker "Adam Milton-Barker") - [Asociacion De Investigation En Inteligencia Artificial Para La Leucemia Peter Moss](https://www.leukemiaresearchassociation.ai "Asociacion De Investigation En Inteligencia Artificial Para La Leucemia Peter Moss") President & Lead Developer, Sabadell, Spain
+
+- [Simeon Pieterkosky](https://www.leukemiaresearchassociation.ai/team/simeon-pieterkosky "Simeon Pieterkosky") - [Asociacion De Investigation En Inteligencia Artificial Para La Leucemia Peter Moss](https://www.leukemiaresearchassociation.ai "Asociacion De Investigation En Inteligencia Artificial Para La Leucemia Peter Moss") EMAR Product Designer, Norway
+
+- [Rahul Gupta](https://www.leukemiaresearchassociation.ai/team/rahul-gupta "Rahul Gupta") - [Asociacion De Investigation En Inteligencia Artificial Para La Leucemia Peter Moss](https://www.leukemiaresearchassociation.ai "Asociacion De Investigation En Inteligencia Artificial Para La Leucemia Peter Moss") Robotics Engineering & R&D, Gurgaon, India
+
+- [Utkrisht Sharma](https://www.leukemiaresearchassociation.ai/team/utkrisht-sharma "Utkrisht Sharma") - [Asociacion De Investigation En Inteligencia Artificial Para La Leucemia Peter Moss](https://www.leukemiaresearchassociation.ai "Asociacion De Investigation En Inteligencia Artificial Para La Leucemia Peter Moss") Robotics Engineering & R&D, Delhi, India
 
 &nbsp;
 
